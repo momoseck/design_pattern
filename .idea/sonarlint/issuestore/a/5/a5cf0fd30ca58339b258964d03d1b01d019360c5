@@ -1,0 +1,11 @@
+
+\
+java:S1854"ARemove this useless assignment to local variable "streamBuilder".(ùÔÔ©ûÿÿÿÿ
+[
+java:S1612	"@Replace this lambda with method reference 'System.out::println'.(·Þ§Öüÿÿÿÿ
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(·Þ§Öüÿÿÿÿ
+[
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(÷¿Ô¹ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(÷¿Ô¹ùÿÿÿÿ
+M
+java:S1481"2Remove this unused "streamBuilder" local variable.(ùÔÔ©ûÿÿÿÿ
